@@ -1,0 +1,3 @@
+rootProject.name = 'the_princes_journey__1863'
+
+include ':app'
